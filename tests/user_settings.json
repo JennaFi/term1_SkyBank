@@ -1,0 +1,17 @@
+{
+    "user_currencies": {
+        "exchange_rates": {
+            "USD": 87.41,
+            "EUR": 95.51
+        }
+    },
+    "user_stocks": {
+        "stock_prices": {
+            "AAPL": 216.24,
+            "MSFT": 406.02,
+            "GOOGL": 163.67,
+            "TSLA": 200,
+            "AMZN": 166.94
+        }
+    }
+}
