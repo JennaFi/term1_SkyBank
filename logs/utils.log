@@ -1,0 +1,5 @@
+2024-08-12 02:32:37,329 utils.py INFO: File changed to json
+2024-08-12 02:32:37,475 utils.py INFO: List of cards: ['*5091', '*7197', '*6002', '*4556', '*1112', '*5507', '*5441']
+2024-08-12 02:32:37,477 utils.py INFO: Expences by card: [{'card_number': '*7197', 'all_payments': 160.89}, {'card_number': '*5091', 'all_payments': 564.0}, {'card_number': 0, 'all_payments': 800.0}, {'card_number': '*4556', 'all_payments': 5046.0}] 
+2024-08-12 02:32:37,481 utils.py INFO: TOP-5 transactions are: [{'transaction': 174000.0, 'description': 'Пополнение через Газпромбанк'}, {'transaction': 28001.94, 'description': 'Перевод Кредитная карта. ТП 10.2 RUR'}, {'transaction': 20000.0, 'description': 'Иван С.'}, {'transaction': 14216.42, 'description': 'ЖКУ Квартира'}, {'transaction': 10000.0, 'description': 'Светлана Т.'}]
+2024-08-12 02:32:37,485 utils.py INFO: Cashback by cards: [{'card_number': '*7197', 'cashback': 239.6}, {'card_number': '*5091', 'cashback': 129.44}, {'card_number': '*4556', 'cashback': 1984.7}]
